@@ -1,0 +1,11 @@
+streamlit
+langchain
+langgraph
+langchain-community
+langchain-ollama
+faiss-cpu
+pypdf
+duckduckgo-search
+wikipedia
+reportlab
+python-dotenv
