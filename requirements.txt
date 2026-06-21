@@ -6,6 +6,7 @@ langchain-ollama
 faiss-cpu
 pypdf
 duckduckgo-search
+ddgs
 wikipedia
 reportlab
 python-dotenv
